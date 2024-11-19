@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "trim-epigram-440903-u1",
+  "private_key_id": "f5ab24dc363e1aa101124273fd49577c1c868c03",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC6yuciQB3rK/0D\nPIYF6TUGoveb1pGEc3SF6Rk6wlWDeJrUxFr3mtQnLHQbnBxQ9zvGRphFfMo1++qZ\nK8qs+aWKf2cLIERQUjxz42decYkMZzxo4SibpQjcogv0w32b1rxmafFz6svlXCL5\niv1RijLDt/spcwOdvOBMaTlSTjxcGSS5t5rHopRa9DIpgHYVr0E6YpQZe2wOfovH\nS+r69fXdGixXzSxTXI/drDXs2DqM084W0MauMpfgL+dzlTkxNcMMzXBmg9vhjiyS\nSKxRVWD6ONeKbcFUCsamGucFwBrgNMEqXWn4PdqgBUEpCg7wdJExjGfmxaJ5GGk8\noI3vImtDAgMBAAECggEABCT2pi5udpU7p6Uc0futUqnVmpSOFsBO4QDO6rnVjPVv\nOp6rcgXetcWkVsW3FoFpeFZZaNu9aIH9X9VnmFRJWl53RpbEJd7YToaNgoEorrx1\ny/lNYs/nlR901sMH7jHFRblcL4zqKudwqV69PhtdPg35zVAq9zfUSeAvy3nG5xDK\nkByvzAzkOtJ0pdMtp7FEBs9JP4DzjJXmdS1brtiwp1ARF2iuIrD+gEQfVcgLPO9D\np5/FsJNX4JR9XGXN1JFBDzk/6GpaUvV7WeiSyZAwGWrCZF9APWSLRqXMMy7CK4rF\n3RfUCeQwbCwviiDcaCUlM5Jhc+1JmxXXsNLBvAMhuQKBgQD7/H7cLO1ZIwAm2pQm\n9FiYNEIU68HdSc6DMvZjHeqVQ7ViU61Rq4ZzUlM4pMdxnjtp6Je+thUzuvRGaZmu\nPmkFcgNzimTHZsOEuCXt/xUj+jcp2qtiCm/GS6BEytCph7yrseKLU5NE9q4ekiCG\nfQypxuBjWvAml4S+8940MN9z7QKBgQC9xJJ0ZTNtnwdosNrSc14ohC7CwPDbdish\nUnQfGcyxwsaQmwgczRHh+t8Q2rHYpT17oRld7pagykhNT1xLDkNmncEwV0ZKrWUL\nHrdgFG6rF2t+vM9HdfEts6HMn2q3FC7CYcTKUv13MbROZkAEn7cwu7DjitmyXbL5\nmHz+jzXV7wKBgQDHzXzVnjYQsKUFKdnBTYwWG5GuPwW4Lja2ZylgjC8ebdKcBZdv\nI593P3bHeji+iWW443m2+W+0VfAtCLyXodrqO24rJjgkuAId8Vn57YHYxiUJZd7w\n3S+lvv90rJBpbDyYs3LbYMhsLWEA0oNBwFPTJuNzRH8ZSpkyQ/IT1hDIPQKBgGp2\n/jOPE2tM7Tsu/ZVUZF8WyaU52edGRKxNNhi8wLp6LCy0zbha1M2TkdJC38RL8FKL\n709jq95JnobBH2Z8ehP4LYqRbD45SZcThI3C6NPUL9rK0v+ki8q4HO5QAe70w8cK\nUv2v0cQtfpr9gq0VbhFJO9Rs8fW/28lsY7PtZKbBAoGBAL6WtAY247UI7Ehrd7Gy\nf4J7e+nl8ujzriartCw8d6vMPsTuppkjyiPwDVjJAUZTaBQajgfmTfLKH671cmge\nNYa0sOgJkq9tILUdAQbnu7lRMtpHQscB/cviTlk475xRzbtMBRIBh8kdfErRFGA9\nPHnPwS5iLprweh0d1flDi6lx\n-----END PRIVATE KEY-----\n",
+  "client_email": "sheet-acces@trim-epigram-440903-u1.iam.gserviceaccount.com",
+  "client_id": "100579116682591904635",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sheet-acces%40trim-epigram-440903-u1.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
